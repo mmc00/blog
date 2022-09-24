@@ -1,0 +1,11 @@
+{{ $recentArticles := 5 }}
+{{ if .Site.Params.homepage.showRecent | default false }}
+  {{ if index .Site.Params.homepage "showRecentItems" }}
+    {{ $recentArticles = .Site.Params.homepage.showRecentItems }}
+  {{ end }}
+  <h2 class="mt-8 text-2xl font-extrabold mb-10">{{ i18n "shortcode.recent_articles" | emojify }}</h2>
+  {{ range first $recentArticles (.Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections)).Pages }}
+    {{ partial "article-link.html" . }}
+  {{ end }}
+  <a href="/blog/" style="float: right; font-size: 16px; color:rgb(42,77,208);">All Posts →</a>
+{{ end }}
