@@ -18,7 +18,7 @@ dateFormat = "2006-01-02"
   # headline = "正在路上的前端工程师"
   bio = "正在路上的前端工程师"
   links = [
-    { github = "https://github.com/username" },
-    { twitter = "https://twitter.com/username" },
-    { telegram = "https://t.me/username" },
+    { github = "https://github.com/miawithcodee" },
+    { twitter = "https://twitter.com/cuttontailc" },
+    { telegram = "https://t.me/cuttontail" },
    ]
