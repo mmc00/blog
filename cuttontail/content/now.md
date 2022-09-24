@@ -1,14 +1,9 @@
 ---
 title: "Now"
 date: 2020-08-14
-draft: false
-description: "Some real-life Blowfish examples."
-slug: "now"
 showDate: false
 showDateUpdated: true
-showAuthor: true
 showReadingTime: false
-showEdit: false
 showWordCount: false
 ---
 
@@ -20,7 +15,8 @@ Now 页面会随着时间和当下生活的优先级而更新，用来**让别�
 
 ---
 ### 💪 Currently Working On
-- 备考日语N2
+- 备考日语 N2
+    - n5-n4：[大家的日本语](/tags/みんなの日本語/)
 - 备考软件资格考试
 - 创建响应式 Portfolio 网站 - [Build and Deploy a Fullstack Responsive Portfolio Website](https://youtu.be/3HNyXCPDQ7Q)
 
