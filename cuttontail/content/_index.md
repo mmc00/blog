@@ -1,6 +1,6 @@
 ---
-title: ""
-description: ""
+title: "home"
+description: "homepage"
 ---
 
 {{< lead >}} 正在路上的前端工程师 {{< /lead >}}

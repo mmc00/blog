@@ -80,5 +80,4 @@ tags: ["变形规则"]
 
 ---
 ## Reference
-- 大家的日本语 - 27课
 - [日语语法指南-可能形](https://res.wokanxing.info/jpgramma/potential.html)
