@@ -32,18 +32,18 @@ enableCodeCopy = true
   showAuthor = true
   showBreadcrumbs = false
   showDraftLabel = true
-  showEdit = true
+  showEdit = false
   # editURL = "https://github.com/username/repo/"
   editAppendPath = true
   showHeadingAnchors = true
   showPagination = true
-  invertPagination = false
+  invertPagination = true
   showReadingTime = true
   showTableOfContents = true
   showTaxonomies = false
   showWordCount = true
   showSummary = true
-  sharingLinks = [""]
+  sharingLinks = false
   showComments = true
 
 [list]

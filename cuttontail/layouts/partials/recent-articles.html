@@ -7,5 +7,5 @@
   {{ range first $recentArticles (.Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections)).Pages }}
     {{ partial "article-link.html" . }}
   {{ end }}
-  <a href="/blog/" style="float: right; font-size: 16px; color:rgb(42,77,208);">All Posts →</a>
+  <a href="/blog/" style="float: right; font-size: 16px; color:rgb(42,77,208);">View More →</a>
 {{ end }}

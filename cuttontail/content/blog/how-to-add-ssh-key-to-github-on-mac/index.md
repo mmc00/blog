@@ -2,12 +2,7 @@
 title: "如何在 Mac 上为 GitHub 设置SSH Key（2022）"
 date: 2022-09-02T12:14:12+08:00
 tags: ["github"]
-author: "小綿尾巴"
-description: "介绍如何在Mac上生成一个SSH Key，生成之后将SSH Key添加到自己的GitHub账号中，以便通过SSH对Git操作进行认证。"
 summary: "介绍如何在Mac上生成一个SSH Key，生成之后将SSH Key添加到自己的GitHub账号中，以便通过SSH对Git操作进行认证。"
-canonicalURL: "https://canonical.url/to/page"
-
-searchHidden: true
 ---
 
 

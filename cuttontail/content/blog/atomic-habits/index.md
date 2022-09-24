@@ -2,17 +2,8 @@
 title: "《掌控习惯》- 如何设计生活，让好习惯更容易养成"
 date: 2022-08-06T15:00:12+08:00
 tags: ["booknote","productivity"]
-author: "小綿尾巴"
 description: ""
 summary: "《掌控习惯》读书笔记"
-canonicalURL: "https://canonical.url/to/page"
-
-searchHidden: true
-
-cover:
-#    image: "booknote/atomic-habits/bookcover.jpeg"
-    caption: "" 
-    alt: ""
 ---
 
 [《掌控习惯》](https://book.douban.com/subject/34326931/)这本书主要回答2个问题：

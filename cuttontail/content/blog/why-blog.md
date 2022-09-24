@@ -2,12 +2,8 @@
 title: "独立博客过时以后，为什么开始写博客了？"
 date: 2022-07-29T16:01:02+08:00
 tags: ["create"]
-author: "小綿尾巴"
 description: ""
 summary: "我为什么要写博客"
-canonicalURL: "https://canonical.url/to/page"
-
-searchHidden: true
 ---
 
 独立博客现在(**2022**)听来似乎已经是很古早的产物。独立域名、服务器空间和原创内容组成了独立博客，听起来是很Geek的事。独立博客设置了一道技术门栏，进门以后的人都去做技术博客了（误）。

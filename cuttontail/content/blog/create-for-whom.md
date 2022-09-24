@@ -2,12 +2,8 @@
 title: "创作者应该为谁创作？寻找创作自由"
 date: 2022-08-12T13:04:43+08:00
 tags: ["create"]
-author: "小綿尾巴"
 description: ""
 summary: "创作者应该为自己创造，还是为他人创作？"
-canonicalURL: "https://canonical.url/to/page"
-
-searchHidden: true
 ---
 
 ## 为自己创作
