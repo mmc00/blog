@@ -1,6 +1,6 @@
 ---
-title: "home"
-description: "homepage"
+title: "小綿尾巴｜Cuttontail"
+description: ""
 ---
 
 {{< lead >}} 正在路上的前端工程师 {{< /lead >}}
