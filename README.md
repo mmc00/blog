@@ -1,5 +1,6 @@
 # 小綿尾巴的個人博客
 
+🔗 https://cuttontail.blog/
 Writing is the best way to learn.
 
 ## 内容
