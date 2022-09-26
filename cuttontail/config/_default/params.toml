@@ -27,8 +27,8 @@ enableCodeCopy = true
 
 [article]
   showDate = true
-  showViews = true
-  showDateUpdated = false
+  showViews = false
+  showDateUpdated = true
   showAuthor = true
   showBreadcrumbs = false
   showDraftLabel = true
@@ -41,7 +41,7 @@ enableCodeCopy = true
   showReadingTime = true
   showTableOfContents = true
   showTaxonomies = false
-  showWordCount = true
+  showWordCount = false
   showSummary = true
   sharingLinks = false
   showComments = true
