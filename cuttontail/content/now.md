@@ -23,6 +23,9 @@ Now 页面会随着时间和当下生活的优先级而更新，用来**让别�
 
 ---
 ### 🧠 Currently Learning
+- {{< badge >}}New Things Want To Try!{{< /badge >}}
+Project
+    - [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
 - JavaScript
     - JavaScript 基础：[Basic: JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour](https://youtu.be/W6NZfCO5SIk)
     - JavaScript 全部课程：[JavaScript Programming - Full Course](https://youtube.com/watch?v=jS4aFq5-91M)
