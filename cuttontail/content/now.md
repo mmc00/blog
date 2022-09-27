@@ -1,7 +1,7 @@
 ---
 title: "Now"
 date: 2022-08-14
-lastmod: 2022-09-24
+lastmod: 2022-09-27
 showDate: false
 showReadingTime: false
 showWordCount: false
