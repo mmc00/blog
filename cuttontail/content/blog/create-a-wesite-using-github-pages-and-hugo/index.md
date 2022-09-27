@@ -1,6 +1,7 @@
 ---
 title: "如何用 GitHub Pages + Hugo 搭建个人博客"
 date: "2022-08-29T13:01:30+08:00"
+lastmod: 2022-09-27
 tags: ["hugo","github pages"]
 summary: "Step by Step Guide：介绍如何使用一个博客源仓库和一个GitHub Pages仓库，使用 GitHub Pages 和 Hugo 搭建个人博客。"
 ---
@@ -30,7 +31,7 @@ summary: "Step by Step Guide：介绍如何使用一个博客源仓库和一个G
 
 1. 了解基本的终端命令行知识，如：`cd`, `ls`
 2. 安装了 [Git](https://git-scm.com/)，并且了解基本的Git知识
-3. 有一个 [GitHub](https://github.com/)账号
+3. 有一个 {{< icon "github" >}} [GitHub](https://github.com/)账号
 4. 有自己偏好的代码编辑器（我使用的是 [VS Code](https://code.visualstudio.com/)）
 
 ---
@@ -52,16 +53,16 @@ summary: "Step by Step Guide：介绍如何使用一个博客源仓库和一个G
 ### 3-1 创建博客源仓库
 
 1. 命名**博客源仓库**（whatever you want）
-2. 勾选**Public**，设置为公开仓库。 
-3. 勾选添加**README**文件
+2. {{< icon "check" >}}勾选**Public**，设置为公开仓库。 
+3. {{< icon "check" >}}勾选添加**README**文件
 
 ![](create-blog-repository.png)
 
 ### 3-2 创建GitHub Page仓库
 
 1. 命名**GitHub Pages**仓库，这个仓库必须使用特殊的命名格式 `<username.github.io>`， `<username>` 是自己的GitHub的用户名。
-2. 勾选**Public**，设置为公开仓库。
-3. 勾选添加**README**文件，这会设置 `main` 分支为仓库的默认主分支，这在后面提交推送博客内容时很重要。
+2. {{< icon "check" >}}勾选**Public**，设置为公开仓库。
+3. {{< icon "check" >}}勾选添加**README**文件，这会设置 `main` 分支为仓库的默认主分支，这在后面提交推送博客内容时很重要。
 
 ![](create-github-pages-repository.png)
 

@@ -12,8 +12,8 @@ showReadingTime: false
 
 ---
 ## Get in Touch
-1. 🚀 [**Telegram Channel**](https://t.me/cuttontail) - 记录「**Today I Learned**」
-2. 🐦 [**Twitter**](https://twitter.com/cuttontailc) - **DM open**，欢迎和我交朋友🫶🏻
+1. {{< icon "telegram" >}} [**Telegram Channel**](https://t.me/cuttontail) - 记录「**Today I Learned**」
+2. {{< icon "twitter" >}} [**Twitter**](https://twitter.com/cuttontailc) - **DM open**，欢迎和我交朋友🫶🏻
 
 ---
 ## About Site

@@ -1,7 +1,7 @@
 ---
 title: "独立博客过时以后，为什么开始写博客了？"
 date: 2022-07-29T16:01:02+08:00
-lastmod: 2022-09-18
+lastmod: 2022-09-27
 tags: ["create"]
 description: ""
 summary: "我为什么要写博客"
@@ -15,7 +15,7 @@ summary: "我为什么要写博客"
 - 我想写的东西别人已经写过了，我还有必要写吗？
 - ...
 
-直到最近读到Alexey Guzey的 [Why you should start a Blog Right Now](https://guzey.com/personal/why-have-a-blog/)，读完 “如听仙乐耳暂明” ，鼓励了我把想法付诸实践。
+直到最近读到Alexey Guzey的 [Why you should start a Blog Right Now](https://guzey.com/personal/why-have-a-blog/)，读完如听仙乐耳暂明，鼓励了我把想法付诸实践。
 
 ---
 ## 为什么要写博客？
