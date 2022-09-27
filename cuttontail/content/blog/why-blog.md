@@ -1,6 +1,7 @@
 ---
 title: "独立博客过时以后，为什么开始写博客了？"
 date: 2022-07-29T16:01:02+08:00
+lastmod: 2022-09-18
 tags: ["create"]
 description: ""
 summary: "我为什么要写博客"
