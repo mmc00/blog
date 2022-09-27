@@ -1,7 +1,7 @@
 article:
   anchor_label: "Anchor"
   date: "{{ .Date }}"
-  date_updated: "Updated: {{ .Date }}"
+  date_updated: "Updated on {{ .Date }}"
   draft: "Draft"
   edit_title: "Edit content"
   reading_time:
@@ -55,4 +55,4 @@ sharing:
   twitter: "Tweet on Twitter"
 
 shortcode:
-  recent_articles: "Recent Posts"
+  recent_articles: "Lastest Posts"

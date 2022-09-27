@@ -1,6 +1,5 @@
 ---
 title: "About"
-
 showDate: false
 showViews: false
 showWordCount: false

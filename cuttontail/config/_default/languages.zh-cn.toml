@@ -1,13 +1,13 @@
-languageCode = "zh"
+languageCode = "zh-cn"
 languageName = "简体中文"
-displayName = "ZH"
-isoCode = "zh"
+displayName = "ZH-CN"
+isoCode = "zh-cn"
 weight = 1
 rtl = false
 
 title = "Cuttontail"
 # logo = "img/logo.png"
-description = "front-end developer who writes blog."
+description = "前端技术，和那些让我感到惊喜的想法" # 显示在分享后的网站简介里
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2006-01-02"

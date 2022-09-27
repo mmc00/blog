@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
- mainSections = ["blog", "front-end"]
+ mainSections = ["blog"]
 # robots = ""
 
 [footer]
@@ -24,10 +24,13 @@ enableCodeCopy = true
 [homepage]
   layout = "custom" # valid options: page, profile, custom
   showRecent = true
+  showRecentItems = 5
+  showMoreLink = true
+  showMoreLinkDest = '/blog'
 
 [article]
   showDate = true
-  showViews = false
+  showViews = true
   showDateUpdated = true
   showAuthor = true
   showBreadcrumbs = true
@@ -59,13 +62,13 @@ enableCodeCopy = true
   showTermCount = true
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+   apiKey = "AIzaSyCgVSzhtWbaxQSBZzWZks00MgVoSO7aCPA"
+   authDomain = "cuttontail.firebaseapp.com"
+   projectId = "cuttontail"
+   storageBucket = "cuttontail.appspot.com"
+   messagingSenderId = "934174669984"
+   appId = "1:934174669984:web:d1126405ad4ddd04b81dc5"
+   measurementId = "G-Z4CHFZFFYY"
 
 [fathomAnalytics]
   # site = "ABC12345"

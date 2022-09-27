@@ -1,10 +1,11 @@
 ---
 title: "Now"
-date: 2020-08-14
+date: 2022-08-14
+lastmod: 2022-09-24
 showDate: false
-showDateUpdated: true
 showReadingTime: false
 showWordCount: false
+showViews: false
 ---
 
 {{< alert >}}
