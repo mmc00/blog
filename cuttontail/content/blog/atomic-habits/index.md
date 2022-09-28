@@ -3,7 +3,7 @@ title: "《掌控习惯》- 如何设计生活，让好习惯更容易养成"
 date: 2022-08-06T15:00:12+08:00
 tags: ["booknote","productivity"]
 description: ""
-summary: "《掌控习惯》读书笔记"
+summary: "《掌控习惯》读书笔记。这本书在刚刚接触「生产力」时就有所耳闻，读完后确实有所收获，改变了自己看待「习惯」的视角。"
 ---
 
 [《掌控习惯》](https://book.douban.com/subject/34326931/)这本书主要回答2个问题：
