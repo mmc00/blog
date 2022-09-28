@@ -47,7 +47,7 @@ enableCodeCopy = true
   showWordCount = false
   showSummary = true
   sharingLinks = false
-  showComments = true
+  showComments = false
 
 [list]
   showBreadcrumbs = false
