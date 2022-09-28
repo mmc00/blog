@@ -23,8 +23,7 @@ Now 页面会随着时间和当下生活的优先级而更新，用来**让别�
 
 ---
 ### 🧠 Currently Learning
-- {{< badge >}}New Things Want To Try!{{< /badge >}}
-Project
+- Project {{< badge >}}New Thing Want To Try{{< /badge >}}
     - [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
 - JavaScript
     - JavaScript 基础：[Basic: JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour](https://youtu.be/W6NZfCO5SIk)
