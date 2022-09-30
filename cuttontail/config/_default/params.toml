@@ -22,7 +22,7 @@ enableCodeCopy = true
   showScrollToTop = true
 
 [homepage]
-  layout = "custom" # valid options: page, profile, custom
+  layout = "profile" # valid options: page, profile, custom
   showRecent = true
   showRecentItems = 5
   showMoreLink = true
@@ -44,7 +44,7 @@ enableCodeCopy = true
   invertPagination = true
   showReadingTime = false
   showTableOfContents = true
-  showTaxonomies = false
+  showTaxonomies = true
   showWordCount = false
   showSummary = true
   sharingLinks = false
