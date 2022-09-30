@@ -7,6 +7,7 @@ showReadingTime: false
 showWordCount: false
 showViews: false
 showTableOfContents: false
+showLikes: false
 ---
 
 {{< alert >}}
