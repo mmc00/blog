@@ -1,5 +1,5 @@
 ---
-title: "小綿尾巴的博客"
+title: "小綿尾巴"
 description: ""
 ---
 
