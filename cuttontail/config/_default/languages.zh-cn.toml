@@ -7,7 +7,7 @@ rtl = false
 
 title = "Cuttontail"
 # logo = "img/logo.png"
-description = "关注前端和设计，以及那些让我感到惊喜的想法" # 显示在分享后的网站简介里
+description = "前端、设计和让我感到惊喜的想法" # 显示在分享后的网站简介里
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2006-01-02"
