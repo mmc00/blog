@@ -1,7 +1,7 @@
 article:
   anchor_label: "Anchor"
   date: "{{ .Date }}"
-  date_updated: "Updated on {{ .Date }}"
+  date_updated: "Updated: {{ .Date }}"
   draft: "Draft"
   edit_title: "Edit content"
   reading_time:
@@ -15,6 +15,9 @@ article:
   views:
     one: "{{ .Count }} view"
     other: "{{ .Count }} views"
+  likes:
+    one: "{{ .Count }} like"
+    other: "{{ .Count }} likes"
 
 author:
   byline_title: "Author"
@@ -55,4 +58,4 @@ sharing:
   twitter: "Tweet on Twitter"
 
 shortcode:
-  recent_articles: "Lastest Posts"
+  recent_articles: "Latest Postes"
