@@ -21,14 +21,9 @@
   weight = 20
 
 [[main]]
-  name = "日本語のメモ"
-  pageRef = "jp"
-  weight = 30
-
-[[main]]
   name = "ABOUT"
   pageRef = "about"
-  weight = 40
+  weight = 30
 
 
 # -- Footer Menu --
