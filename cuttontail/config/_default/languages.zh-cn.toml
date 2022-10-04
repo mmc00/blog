@@ -1,13 +1,13 @@
-languageCode = "zh-cn"
-languageName = "简体中文"
-displayName = "ZH-CN"
-isoCode = "zh-cn"
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
 weight = 1
 rtl = false
 
 title = "Cuttontail"
 # logo = "img/logo.png"
-description = "前端、设计和让我感到惊喜的想法" # 显示在分享后的网站简介里
+description = "前端、设计和让我感到惊喜的想法"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2006-01-02"
@@ -15,7 +15,7 @@ dateFormat = "2006-01-02"
 [author]
   name = "小綿尾巴"
   image = "img/avatar.jpeg"
-  # headline = "正在路上的前端工程师"
+  # headline = "I'm only human"
   bio = "正在路上的前端工程师"
   links = [
     { github = "https://github.com/miawithcode" },

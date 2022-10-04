@@ -6,23 +6,11 @@
 <div id="cusdis_thread"
   data-host="https://cusdis.com"
   data-app-id="c338a016-d020-4836-918f-ba373be32e00"
-  data-page-id="{{ .RelPermalink }}"
+  data-page-id="{{ .File.UniqueID }}"
   data-page-url="{{ .RelPermalink }}"
   data-page-title="{{ .Title }}"
 ></div>
-<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
-
-<script>
-    window.CUSDIS_LOCALE = {
-      "post_comment": "发送",
-      "email": "邮箱 (可选)",
-      "nickname": "昵称",
-      "reply_placeholder": "内容",
-      "reply_btn": "回复",
-      "sending": "发送中...",
-      "loading": " (  ´͈ ᵕ `͈ ) 努力加载",
-      "content_is_required": "评论内容不能为空",
-      "nickname_is_required": "昵称不能为空",
-      "comment_has_been_sent": "❛˓◞˂̵✧ 已经收到你的评论了，让我先检查一下你是不是真正的人类！"
-    }
-  </script>
+{{- $js := resources.GetRemote "https://cusdis.com/js/cusdis.es.js" | js.Build (dict "minify" true) -}}
+<script type='text/javascript'>
+  {{ $js.Content | safeJS }}
+</script>

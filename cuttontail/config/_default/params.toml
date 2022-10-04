@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
- mainSections = ["blog"]
+mainSections = ["blog"]
 # robots = ""
 
 [footer]
@@ -26,7 +26,7 @@ enableCodeCopy = true
   showRecent = true
   showRecentItems = 5
   showMoreLink = true
-  showMoreLinkDest = '/blog'
+  showMoreLinkDest = "/blog"
 
 [article]
   showDate = true
@@ -48,12 +48,13 @@ enableCodeCopy = true
   showWordCount = false
   showSummary = true
   sharingLinks = false
-  showComments = false
+  showComments = true
 
 [list]
   showBreadcrumbs = false
   showSummary = true
   showTableOfContents = false
+  showCards = true
   groupByYear = false
 
 [sitemap]

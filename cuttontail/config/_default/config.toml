@@ -4,7 +4,6 @@
 
 baseURL = "https://cuttontail.blog/"
 defaultContentLanguage = "zh-cn"
-languageCode = "zh-cn"
 
 enableRobotsTXT = true
 paginate = 15
