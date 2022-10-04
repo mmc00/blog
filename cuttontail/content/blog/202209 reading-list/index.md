@@ -4,6 +4,7 @@ date: 2022-09-10T12:22:26+08:00
 lastmod: 2022-09-27
 tags: ["bookmark","blog","newsletter"]
 summary: "为了成为前端工程师都看些什么"
+slug: reading-list
 ---
 
 ## Blog
