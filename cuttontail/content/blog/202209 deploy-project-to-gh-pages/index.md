@@ -3,7 +3,7 @@ title: "如何为项目设置一个 GitHub Pages"
 date: 2022-10-04T20:36:05+08:00
 lastmod: 
 tags: ["tutorial","github pages"]
-summary: "根据 GitHub Pages官网介绍，一个GitHub账号只能拥有一个 GitHub Pages 网站，但该账号可以拥有无限的项目 GitHub Pages 网站。当仓库中已经有一个`<username>.github.io`时，要如何为项目创建 GitHub Pages？答案：**在项目仓库中建立gh-pages分支**。"
+summary: "根据 GitHub Pages官网介绍，一个GitHub账号只能拥有一个 GitHub Pages 网站，但是可以拥有无限的项目 GitHub Pages 网站。当仓库中已经有一个 `<username>.github.io` 仓库时，应该如何为项目创建 GitHub Pages？"
 slug: deploy-project-to-gh-pages
 ---
 
