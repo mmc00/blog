@@ -1,4 +1,4 @@
-# https://cuttontail.blog/
+# [cuttontai.blog](https://cuttontail.blog/)
 - 我的个人博客，以自己为第一视角写作。
 - 关注前端、设计，和让我感到惊喜的想法。
 
