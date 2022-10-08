@@ -3,7 +3,7 @@ title: "如何用 GitHub Pages + Hugo 搭建个人博客"
 date: "2022-08-29T13:01:30+08:00"
 lastmod: 2022-09-27
 tags: ["tutorial","hugo","github pages"]
-summary: "Step by Step Guide：介绍如何使用一个博客源仓库和一个GitHub Pages仓库，使用 GitHub Pages 和 Hugo 搭建个人博客。"
+summary: "介绍如何使用一个博客源仓库和一个GitHub Pages仓库，使用 GitHub Pages 和 Hugo 搭建个人博客。"
 slug: create-a-wesite-using-github-pages-and-hugo
 ---
 

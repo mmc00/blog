@@ -19,13 +19,13 @@ Now 页面会随着时间和当下生活的优先级而更新，用来**让别�
 ---
 ### 💪 Currently Working On
 - 备考日语 N2
-    - [日语笔记](https://nihongo.cuttontail.blog/)
+    - [日语学习笔记](https://nihongo.cuttontail.blog/)
 - 备考软件资格考试
 - 创建响应式 Portfolio 网站 - [Build and Deploy a Fullstack Responsive Portfolio Website](https://youtu.be/3HNyXCPDQ7Q)
 
 ---
 ### 🧠 Currently Learning
-- Project {{< badge >}}New Thing Want To Try{{< /badge >}}
+- Project
     - [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
 - JavaScript
     - JavaScript 基础：[Basic: JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour](https://youtu.be/W6NZfCO5SIk)
