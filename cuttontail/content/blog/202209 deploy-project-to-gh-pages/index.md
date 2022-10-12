@@ -7,7 +7,7 @@ summary: "介绍当仓库中已经有一个 `<username>.github.io` 仓库时，�
 slug: deploy-project-to-gh-pages
 ---
 
-根据 [GitHub Pages](https://pages.github.com/) 官网介绍，一个GitHub账号只能拥有一个 GitHub Pages 网站，但该账号可以拥有无限的项目 GitHub Pages 网站。当仓库中已经有一个`<username>.github.io`时，要如何为项目创建 GitHub Pages？
+根据 [GitHub Pages 官网](https://pages.github.com/)介绍，一个GitHub账号只能拥有一个 GitHub Pages 网站，但该账号可以拥有无限的项目 GitHub Pages 网站。当仓库中已经有一个`<username>.github.io`时，要如何为项目创建 GitHub Pages？
 
 答案是：**在项目仓库中建立gh-pages分支**。
 
