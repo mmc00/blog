@@ -1,6 +1,6 @@
 ---
 title: "如何为项目设置一个 GitHub Pages"
-date: 2022-10-04T20:36:05+08:00
+date: 2022-10-18T20:36:05+08:00
 lastmod: 
 tags: ["tutorial","github pages"]
 summary: "介绍当仓库中已经有一个 `<username>.github.io` 仓库时，如何创建`gh-pages`分支来为项目设置 GitHub Pages。"
@@ -52,6 +52,10 @@ git push origin gh-pages
 
 做完这一步就大功告成了，如果你没有为项目设置自定义域名，接下来可以在 `https://<username>/repository.github.io` 看到刚刚部署的项目内容。
 
+---
 ## Reference
 - [GitHub Pages 官网](https://pages.github.com/)
 - [在github上建立gh-pages分支](https://www.jianshu.com/p/2352c5a6f229)
+
+## 相关阅读
+- [如何用 GitHub Pages + Hugo 搭建个人博客](/blog/create-a-wesite-using-github-pages-and-hugo/)
