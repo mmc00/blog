@@ -11,22 +11,22 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "BLOG"
+  name = "Blog"
   pageRef = "blog"
   weight = 10
 
 [[main]]
-  name = "BOOK NOTES"
+  name = "Book Note"
   pageRef = "booknote"
   weight = 20
 
 [[main]]
-  name = "NOW"
+  name = "Now"
   pageRef = "now"
   weight = 30
 
 [[main]]
-  name = "ABOUT"
+  name = "About"
   pageRef = "about"
   weight = 40
 
