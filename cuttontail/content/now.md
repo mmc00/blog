@@ -1,12 +1,11 @@
 ---
 title: "Now"
 date: 2022-08-14
-lastmod: 2022-09-27
+lastmod: 2022-10-29
 showDate: false
 showReadingTime: false
 showWordCount: false
 showViews: false
-showTableOfContents: false
 showLikes: false
 ---
 
@@ -18,9 +17,7 @@ Now 页面会随着时间和当下生活的优先级而更新，用来**让别�
 
 ---
 ### 💪 Currently Working On
-- 备考日语 N2
-    - [日语学习笔记](https://nihongo.cuttontail.blog/)
-- 备考软件资格考试
+- 备考[日语语能力考试 N2](https://nihongo.cuttontail.blog)
 - 创建响应式 Portfolio 网站 - [Build and Deploy a Fullstack Responsive Portfolio Website](https://youtu.be/3HNyXCPDQ7Q)
 
 ---
