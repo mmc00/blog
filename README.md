@@ -1,6 +1,6 @@
 # [cuttontai.blog](https://cuttontail.blog/)
 - 我的个人博客，以自己为第一视角写作。
-- 关注前端、设计，和让我感到惊喜的想法。
+- 关注前端、设计，和让自己眼前一亮的想法。
 
 # Feature Posts
 - [独立博客过时以后，为什么开始写博客了？](https://cuttontail.blog/blog/why-blog/)
