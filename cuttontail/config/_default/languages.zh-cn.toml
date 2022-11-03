@@ -14,7 +14,7 @@ dateFormat = "2006-01-02"
 
 [author]
   name = "小綿尾巴"
-  image = "img/avatar.jpeg"
+  image = "img/avatar.jpg"
   # headline = "I'm only human"
   bio = "正在路上的前端工程师"
   links = [
