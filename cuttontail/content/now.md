@@ -13,7 +13,7 @@ showLikes: false
 Now 页面会随着时间和当下生活的优先级而更新，用来**让别人看见这个人现在生活的重点是什么**，和**提醒自己专注于当下最重要的事**。  
 {{< /alert >}}
 
-💡 Now 页面的灵感来源于 [Derek Sivers](https://nownownow.com/about)
+💡 Now 页面的灵感来自 [Derek Sivers](https://nownownow.com/about)
 
 ---
 ### 💪 Currently Working On

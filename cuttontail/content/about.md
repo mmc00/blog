@@ -8,8 +8,8 @@ showLikes: false
 ---
 
 ## About Me
-- 我是**小綿尾巴**，英文是 **Cuttontail**。这个名字来自 [HIMYM](https://www.imdb.com/title/tt0460649/) 中 Barney 给一只小兔起的名字。
-- 💮 正在学习日语，有一个公开的[日语笔记本](https://nihongo.cuttontail.blog)
+- 我是**小綿尾巴**，英文是 **Cuttontail**。
+- 💮 [日本語](https://nihongo.cuttontail.blog)学习中
 - ✍🏻 从 **2022-07** 开始写博客 
     - [独立博客过时以后，为什么开始写博客了？](/blog/why-blog/)
 
