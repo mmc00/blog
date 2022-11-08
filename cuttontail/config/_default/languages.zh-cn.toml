@@ -21,4 +21,5 @@ dateFormat = "2006-01-02"
     { github = "https://github.com/miawithcode" },
     { twitter = "https://twitter.com/cuttontailc" },
     { telegram = "https://t.me/cuttontail" },
+    { email = "mailto:cuttontail@gmail.com" },
    ]
